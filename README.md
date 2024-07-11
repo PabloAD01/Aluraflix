@@ -7,82 +7,61 @@
 <h2>Tecnologías Utilizadas</h2>
 <ul>
   <li>
-    <bold>React:</bold> Una biblioteca de JavaScript para construir interfaces de usuario, que permite la creación de componentes reutilizables y una gestión eficiente del estado.
+    <strong>React:</strong> Una biblioteca de JavaScript para construir interfaces de usuario, que permite la creación de componentes reutilizables y una gestión eficiente del estado.
   </li>
   <li>
-  <bold>Vite:</bold> Una herramienta de desarrollo de frontend de última generación que proporciona una experiencia de desarrollo más rápida y eficiente para proyectos web modernos.
+    <strong>Vite:</strong> Una herramienta de desarrollo de frontend de última generación que proporciona una experiencia de desarrollo más rápida y eficiente para proyectos web modernos.
   </li>
   <li>
-  <bold>Framer Motion:</bold> Una potente biblioteca para animaciones y transiciones, que proporciona una experiencia de usuario más dinámica y atractiva.
+    <strong>Framer Motion:</strong> Una potente biblioteca para animaciones y transiciones, que proporciona una experiencia de usuario más dinámica y atractiva.
   </li>
   <li>
-   <bold>CSS Modules:</bold> Asegura un CSS modular y mantenible, permitiendo estilos en ámbitos que evitan conflictos.
+    <strong>CSS Modules:</strong> Asegura un CSS modular y mantenible, permitiendo estilos en ámbitos que evitan conflictos.
   </li>
   <li>
-   <bold>Context API:</bold> Para la gestión de estados a través de la aplicación, facilitando la compartición de datos entre componentes sin necesidad de pasar props.
+    <strong>Context API:</strong> Para la gestión de estados a través de la aplicación, facilitando la compartición de datos entre componentes sin necesidad de pasar props.
   </li>
   <li>
-   <bold>React Router DOM:</bold> Para la navegación entre diferentes vistas de la aplicación.
+    <strong>React Router DOM:</strong> Para la navegación entre diferentes vistas de la aplicación.
   </li>
   <li>
-   <bold>React Icons:</bold> Para la inclusión de íconos en la interfaz de usuario.
+    <strong>React Icons:</strong> Para la inclusión de íconos en la interfaz de usuario.
   </li>
 </ul>
 
-
-
-<h2>Instalación></h2>
-
+<h2>Instalación</h2>
 <p>Para obtener una copia local y ponerla en funcionamiento, sigue estos sencillos pasos:</p>
-
-
 <ol>
-  <li><strong>Clonar el repositorio:</strong> </br>
-  git clone https://github.com/PabloAD01/Aluraflix.git
+  <li>
+    <strong>Clonar el repositorio:</strong> <br>
+    <span style="background-color: #f7f7f7;">git clone https://github.com/PabloAD01/Aluraflix.git</span>
   </li>
-  <li><bold>Navegar al directorio del proyecto:</bold>
-  cd aluraflix
+  <li>
+    <strong>Navegar al directorio del proyecto:</strong> <br>
+    <span style="background-color: #f7f7f7;">cd aluraflix</span>
   </li>
-  <li><bold>Instalar dependencias:</bold>
-  npm install
+  <li>
+    <strong>Instalar dependencias:</strong> <br>
+    <span style="background-color: #f7f7f7;">npm install</span>
   </li>
-  <li><bold>Iniciar el servidor de desarrollo:</bold>
-  npm run dev
+  <li>
+    <strong>Iniciar el servidor de desarrollo:</strong> <br>
+    <span style="background-color: #f7f7f7;">npm run dev</span>
   </li>
 </ol>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>React + Vite</h2>
+<p>
+  This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+</p>
+<p>
+  Currently, two official plugins are available:
+</p>
+<ul>
+  <li>
+    <a href="https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md" target="_blank">@vitejs/plugin-react</a> uses <a href="https://babeljs.io/" target="_blank">Babel</a> for Fast Refresh
+  </li>
+  <li>
+    <a href="https://github.com/vitejs/vite-plugin-react-swc" target="_blank">@vitejs/plugin-react-swc</a> uses <a href="https://swc.rs/" target="_blank">SWC</a> for Fast Refresh
+  </li>
+</ul>
