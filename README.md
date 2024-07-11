@@ -42,15 +42,27 @@
   </li>
   <li>
     <strong>Navegar al directorio del proyecto:</strong> <br>
+
+    
     <span>cd aluraflix</span>
+
+    
   </li>
   <li>
     <strong>Instalar dependencias:</strong> <br>
-    <span>npm install</span>
+
+    
+    npm install
+
+    
   </li>
   <li>
     <strong>Iniciar el servidor de desarrollo:</strong> <br>
-    <span>npm run dev</span>
+
+    
+    npm run dev
+
+    
   </li>
 </ol>
 
