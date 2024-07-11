@@ -44,7 +44,7 @@
     <strong>Navegar al directorio del proyecto:</strong> <br>
 
     
-    <span>cd aluraflix</span>
+    cd aluraflix
 
     
   </li>
