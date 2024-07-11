@@ -36,7 +36,7 @@
     <strong>Clonar el repositorio:</strong> <br>
 
     
-    <span>git clone https://github.com/PabloAD01/Aluraflix.git</span>
+    git clone https://github.com/PabloAD01/Aluraflix.git
 
     
   </li>
