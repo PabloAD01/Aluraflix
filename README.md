@@ -31,10 +31,14 @@
 
 <h2>Instalación</h2>
 <p>Para obtener una copia local y ponerla en funcionamiento, sigue estos sencillos pasos:</p>
-<ol style=style="margin-bottom: 20px;">
+<ol>
   <li>
     <strong>Clonar el repositorio:</strong> <br>
+
+    
     <span>git clone https://github.com/PabloAD01/Aluraflix.git</span>
+
+    
   </li>
   <li>
     <strong>Navegar al directorio del proyecto:</strong> <br>
