@@ -34,7 +34,7 @@
 <ol>
   <li>
     <strong>Clonar el repositorio:</strong> <br>
-    <span style="background-color: red; ">git clone https://github.com/PabloAD01/Aluraflix.git</span>
+    <span style="padding:80px; ">git clone https://github.com/PabloAD01/Aluraflix.git</span>
   </li>
   <li>
     <strong>Navegar al directorio del proyecto:</strong> <br>
