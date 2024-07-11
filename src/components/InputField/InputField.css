@@ -1,0 +1,25 @@
+.new-video-page__form__input {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+input {
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition: border-color 0.3s ease;
+}
+
+.input-error {
+  border-color: red;
+}
+
+.error {
+  color: red;
+  text-shadow: 0 0 10px red;
+  padding: 0 16px;
+}

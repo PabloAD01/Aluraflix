@@ -1,0 +1,19 @@
+.new-video-page__form__options {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+select {
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  background-color: transparent;
+  border: 1px solid rgb(255, 255, 255, 0.2);
+}
+
+option {
+  color: black;
+  background-color: inherit;
+}

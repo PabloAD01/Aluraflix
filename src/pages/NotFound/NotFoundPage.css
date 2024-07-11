@@ -1,0 +1,36 @@
+.not-found {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 40px 0px;
+}
+
+.not-found__title {
+  font-size: 100px;
+  color: #fff;
+  margin: 0;
+}
+
+.not-found__text {
+  font-size: 40px;
+  color: #fff;
+}
+
+.not-found__link {
+  font-size: 24px;
+  color: #fff;
+  transition: all 0.2s;
+}
+
+.not-found__link:hover {
+  color: rgba(107, 209, 255, 1);
+  text-shadow: 0 0 40px rgba(107, 209, 255, 1);
+  text-decoration: none;
+}
+
+.not-found__link:active {
+  color: rgba(34, 113, 209, 1);
+  text-shadow: 0 0 40px rgba(34, 113, 209, 1);
+}

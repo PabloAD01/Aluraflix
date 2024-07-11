@@ -1,0 +1,15 @@
+.category {
+  align-items: center;
+  border-radius: 16px;
+  text-transform: uppercase;
+  width: 320px;
+  padding: 8px 0px;
+  text-align: center;
+  color: white;
+}
+
+@media screen and (max-width: 430px) {
+  .category {
+    max-width: 100%;
+  }
+}

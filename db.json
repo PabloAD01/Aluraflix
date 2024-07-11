@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": "0",
+      "title": "Challenge React",
+      "category": "Front end",
+      "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React",
+      "video": "",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/frontend_c2dcps.jpg"
+    },
+    {
+      "id": "1",
+      "title": "Cuándo usar let, var y const? #AluraMás",
+      "category": "Front end",
+      "description": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+      "video": "https://www.youtube.com/embed/PztCEdIJITY?si=49p1LQ7YIBFUbvmW",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/frontend11_jtphiz.jpg"
+    },
+    {
+      "id": "2",
+      "title": "¿Qué es JavaScript?",
+      "category": "Front end",
+      "description": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "video": "https://www.youtube.com/embed/GJfOSoaXk4s?si=Jb03GXqsMmKVQ-zR",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/frontend22_ics2dx.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Equipo Front End #AluraMás",
+      "category": "Front end",
+      "description": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología? En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.",
+      "video": "https://www.youtube.com/embed/rpvrLaBQwgg?si=ijq-QNgL4dw1f4mY",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/frontend33_bnmmis.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Spring Framework. ¿Qué es ? #AluraMás",
+      "category": "Back end",
+      "description": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.",
+      "video": "https://www.youtube.com/embed/t-iqt1b2qqk?si=w35FKsZUbrsLGZnM",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/backend11_qahfqg.jpg"
+    },
+    {
+      "id": "5",
+      "title": "¿Qué es SQL y NoSQL?",
+      "category": "Back end",
+      "description": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+      "video": "https://www.youtube.com/embed/cLLKVd5CNLc?si=J-yHjWYmbP1zv3-U",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/backend22_nw6ywa.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+      "category": "Back end",
+      "description": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.",
+      "video": "https://www.youtube.com/embed/EoPvlE85XAQ?si=iFhQEOaNGWDTDhmW",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/backend33_qvbhmp.jpg"
+    },
+    {
+      "id": "7",
+      "title": "¿Qué son las Soft Skills?",
+      "category": "Innovación y gestión",
+      "description": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "video": "https://www.youtube.com/embed/vhwspfvI52k?si=P4-0Kt4XSDtQeUXp",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/InnovacionYGestion11_vdksyc.jpg"
+    },
+    {
+      "id": "8",
+      "title": "7 Soft Skills más deseadas por las empresas #AluraMás",
+      "category": "Innovación y gestión",
+      "description": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
+      "video": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=1KIl1Q2n9gYLaf9E",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/InnovacionYGestion22_fwqrzq.jpg"
+    },
+    {
+      "id": "9",
+      "title": "¿Qué son las metodologias ágiles?",
+      "category": "Innovación y gestión",
+      "description": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+      "video": "https://www.youtube.com/embed/6N3OkLCfK-0?si=5G2sVAbF0OseNp0Z",
+      "image": "https://res.cloudinary.com/doa6b7qnk/image/upload/v1720579889/InnovacionYGestion33_lv5zhl.jpg"
+    }
+  ]
+}

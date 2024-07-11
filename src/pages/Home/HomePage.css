@@ -1,0 +1,12 @@
+main {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.category__container {
+  display: flex;
+  flex-direction: column;
+  padding: 60px 16px;
+  gap: 90px;
+}
