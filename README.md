@@ -34,19 +34,19 @@
 <ol>
   <li>
     <strong>Clonar el repositorio:</strong> <br>
-    <span style="background-color: #000000;">git clone https://github.com/PabloAD01/Aluraflix.git</span>
+    <span>git clone https://github.com/PabloAD01/Aluraflix.git</span>
   </li>
   <li>
     <strong>Navegar al directorio del proyecto:</strong> <br>
-    <span style="background-color: #f7f7f7;">cd aluraflix</span>
+    <span>cd aluraflix</span>
   </li>
   <li>
     <strong>Instalar dependencias:</strong> <br>
-    <span style="background-color: #f7f7f7;">npm install</span>
+    <span>npm install</span>
   </li>
   <li>
     <strong>Iniciar el servidor de desarrollo:</strong> <br>
-    <span style="background-color: #f7f7f7;">npm run dev</span>
+    <span>npm run dev</span>
   </li>
 </ol>
 
